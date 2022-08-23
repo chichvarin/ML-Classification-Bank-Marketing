@@ -9,18 +9,23 @@ to determine the characteristics by which it is possible to identify customers w
 ## Data Science Lifecycle:
 
 1. Primary data processing - Data Cleaning
-Working with missing values and outliers in the data. 
+
+   Working with missing values and outliers in the data. 
 
 2. EDA
-Spreading measures
-Histograms
-Correlation analyis
+
+   Spreading measures /
+   Histograms /
+   Correlation analyis
 
 3. Feature Engineering - Selection and transformation of features
-In this step, we will transform the data so that it can be used in solving a classification problem. 
+
+   In this step, we will transform the data so that it can be used in solving a classification problem. 
 
 4. Classification: Logistic Regression and Decision Trees
-Building first predictive model and evaluate its quality. Selection the optimal model parameters in order to get the best result for a particular algorithm.
+   
+   Building first predictive model and evaluate its quality. Selection the optimal model parameters in order to get the best result for a particular algorithm.
 
 5. Classification: ensembles of models and forecasting
-Refining prediction using more complex algorithms. Evaluation which model can be used to make better predictions.
+
+   Refining prediction using more complex algorithms. Evaluation which model can be used to make better predictions.
